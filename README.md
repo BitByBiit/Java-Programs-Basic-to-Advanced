@@ -1,4 +1,4 @@
-# Java-Programs-Basic-to-Advanced with BitByBit :)
+# Java-Programs-Basic-to-Advanced with BitByBiit :)
 This is the repository wherein you will be able to access all the modules along with example code of Java.
 
 # Setting up JAVA on Local
